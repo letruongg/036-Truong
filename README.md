@@ -1,9 +1,9 @@
 # 036-Truong
 
-
+[ Ảnh ] ()
 # Lê Nhựt Trường #
 # Bậc Đại Học #
-# CNTT # 
+# CNTT- Thiết Kế Web # 
 # Kinh Nghiệm Chưa Có #
 # #
 
